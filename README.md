@@ -139,10 +139,9 @@ You’re free to use, modify, and distribute it with proper attribution.
 
 ## 👨‍💻 Author
 
-**Tanish Dwivedi**
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/tanishdwiv)
-* 🐙 [GitHub](https://github.com/tanishdwiv)
+
+
 
 ---
 
